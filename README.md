@@ -8,7 +8,3 @@ In this example we take a look on the seeded region algorithm which is an area-o
 
 ## Screenshot
 ![image](/screenshot.png?raw=true)
-
-## Live-Demo:
-For a live-demo visit:
-https://rawgit.com/airbenich/seeded-region-growing/master/index.html
